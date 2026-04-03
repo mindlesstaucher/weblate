@@ -1,0 +1,22 @@
+{
+  "app.title": "Mein Beispielprojekt",
+  "app.subtitle": "Eine einfache Anwendung zur Demonstration von Übersetzungen",
+  "nav.home": "Startseite",
+  "nav.about": "Über uns",
+  "nav.contact": "Kontakt",
+  "nav.settings": "Einstellungen",
+  "button.save": "Speichern",
+  "button.cancel": "Abbrechen",
+  "button.delete": "Löschen",
+  "button.edit": "Bearbeiten",
+  "button.login": "Anmelden",
+  "button.logout": "Abmelden",
+  "form.username": "Benutzername",
+  "form.password": "Passwort",
+  "form.email": "E-Mail-Adresse",
+  "form.rememberMe": "Angemeldet bleiben",
+  "message.success": "Die Aktion wurde erfolgreich ausgeführt.",
+  "message.error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+  "message.requiredField": "Dieses Feld ist ein Pflichtfeld.",
+  "dialog.confirmDelete": "Möchtest du diesen Eintrag wirklich löschen?"
+}
