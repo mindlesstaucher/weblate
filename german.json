@@ -18,5 +18,6 @@
   "message.success": "Die Aktion wurde erfolgreich ausgeführt.",
   "message.error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
   "message.requiredField": "Dieses Feld ist ein Pflichtfeld.",
-  "dialog.confirmDelete": "Möchtest du diesen Eintrag wirklich löschen?"
+  "dialog.confirmDelete": "Möchtest du diesen Eintrag wirklich löschen?",
+  "something.addedInRepo": "Etwas wurde im Repository hinzugefügt."
 }
