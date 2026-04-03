@@ -19,5 +19,6 @@
   "message.error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
   "message.requiredField": "Dieses Feld ist ein Pflichtfeld.",
   "dialog.confirmDelete": "Möchtest du diesen Eintrag wirklich löschen?",
-  "something.addedInRepo": "Etwas wurde im Repository hinzugefügt."
+  "something.addedInRepo": "Etwas wurde im Repository hinzugefügt.",
+  "oneMore": "Noch eins"
 }
