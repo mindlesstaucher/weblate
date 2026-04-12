@@ -1,3 +1,26 @@
 {
-    "app.title": "My example project"
+    "app.title": "My example project",
+    "app.subtitle": "A simple application to demonstrate translations",
+    "nav.home": "Homepage",
+    "nav.about": "About us",
+    "nav.contact": "Contact",
+    "nav.settings": "Settings",
+    "button.save": "Save",
+    "button.cancel": "Cancel",
+    "button.delete": "Delete",
+    "button.edit": "Edit",
+    "button.login": "Log in",
+    "button.logout": "Log out",
+    "form.username": "Username",
+    "form.password": "Password",
+    "form.email": "E-mail address",
+    "form.rememberMe": "Stay logged in",
+    "message.success": "The action was successfully executed.",
+    "message.error": "An error has occurred. Please try again later.",
+    "message.requiredField": "This field is a required field.",
+    "dialog.confirmDelete": "Do you really want to delete this entry?",
+    "something.addedInRepo": "Something has been added to the repository.",
+    "oneMore": "One more",
+    "mothersMaidenName": "Mother's maiden name",
+    "einNeuerText": "A new text"
 }
