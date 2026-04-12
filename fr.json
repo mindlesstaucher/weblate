@@ -1,3 +1,26 @@
 {
-    "app.title": "Un exaaamoke"
+    "app.title": "Un exaaamoke",
+    "app.subtitle": "Une application simple pour démontrer les traductions",
+    "nav.home": "Page d'accueil",
+    "nav.about": "À propos de nous",
+    "nav.contact": "Contact",
+    "nav.settings": "Paramètres",
+    "button.save": "Enregistrer",
+    "button.cancel": "Annuler",
+    "button.delete": "Supprimer",
+    "button.edit": "Modifier",
+    "button.login": "S'inscrire",
+    "button.logout": "Se déconnecter",
+    "form.username": "Nom d'utilisateur",
+    "form.password": "Mot de passe",
+    "form.email": "Adresse e-mail",
+    "form.rememberMe": "Se connecter",
+    "message.success": "L'opération a été exécutée avec succès.",
+    "message.error": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "message.requiredField": "Ce champ est obligatoire.",
+    "dialog.confirmDelete": "Souhaitez-vous vraiment supprimer cet enregistrement ?",
+    "something.addedInRepo": "Quelque chose a été ajouté au dépôt.",
+    "oneMore": "Encore un",
+    "mothersMaidenName": "Nom de naissance de la mère",
+    "einNeuerText": "Un nouveau texte"
 }
