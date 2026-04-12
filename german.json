@@ -21,5 +21,6 @@
     "dialog.confirmDelete": "Möchtest du diesen Eintrag wirklich löschen?",
     "something.addedInRepo": "Etwas wurde im Repository hinzugefügt.",
     "oneMore": "Noch eins",
-    "mothersMaidenName": "Geburtsname der Mutter"
+    "mothersMaidenName": "Geburtsname der Mutter",
+    "einNeuerText": "Ein neuer Text"
 }
